@@ -5,7 +5,7 @@
         <DisplayName>Generate C++ Filters</DisplayName>
         <Description xml:space="preserve">Simple Extension which provide the ability to generate C++ project filters to replicate the folder hierarchy of underlying sources</Description>
         <License>Resources\LICENSE</License>
-        <Icon>Resources\GenerateFilter.ico</Icon>
+        <Icon>Resources\GenerateFilters.ico</Icon>
         <PreviewImage>Resources\PreviewImage.png</PreviewImage>
         <Tags>c++;folder;import;filter</Tags>
     </Metadata>
