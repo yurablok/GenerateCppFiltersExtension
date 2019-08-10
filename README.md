@@ -1,7 +1,8 @@
-# Visual Studio C++ Plugin
+# Generate Visual Studio Filters Extention
 
 ## About
-Custom plugins for Visual Studio 2019:
+
+Fork of https://github.com/Dllieu/VisualStudioCppExtensions and updated for Visual Studio 2019:
 - **Generate C++ Project's Filters**
  - Simple Extension which provide the ability to generate C++ project filters to replicate the folder hierarchy of the underlying sources
  - It was originally made to browse easily C++ code hosted on a Linux machine while benefiting of the Visual Studio's features (e.g. GUI, Go to Definition / Declaration, Compile / Debug through SSH, ...)
@@ -12,7 +13,7 @@ Custom plugins for Visual Studio 2019:
 </p>
 
 ## Installation
-- Download the ```*.vsix``` package from the **[latest release](https://github.com/Dllieu/VisualStudioCppExtensions/releases/latest)** or from **[Visual Studio gallery](https://visualstudiogallery.msdn.microsoft.com/5a3251d7-3228-4813-a67e-6b9cc83d0507)**
+- Download the ```*.vsix``` package from the **[latest release](https://github.com/BobbyAnguelov/GenerateFiltersExtension/releases/latest)**
 - Double click on the downloaded package and follow the instructions
 
 ## Example Usage
