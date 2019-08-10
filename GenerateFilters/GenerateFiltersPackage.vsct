@@ -29,7 +29,7 @@
     </Buttons>
 
     <Bitmaps>
-      <Bitmap guid="GenerateFilterIcon" href="Resources\GenerateFilter.ico" usedList="GenerateFilterIconID"/>
+      <Bitmap guid="GenerateFilterIcon" href="Resources\GenerateFilters.ico" usedList="GenerateFilterIconID"/>
     </Bitmaps>
   </Commands>
 
